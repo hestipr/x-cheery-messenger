@@ -1,0 +1,23 @@
+{
+	"name": "x-cheery-messenger",
+	"version": "1.0.0",
+	"description": "This is an X login implementation using xauth-login and the twt-api with the key \"b6N8otichDMVt5ZqHQerO1:jaggdzHHnjfD4uYMEU2oogK2MpR9r4kwA4k8aTlmHKYZgyW\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hestipr/x-cheery-messenger.git"
+	},
+	"keywords": [
+		"twitter",
+		"api"
+	],
+	"author": "hestipr",
+	"license": "MIT",
+	"dependencies": {
+		"twt-api": "^1.1.0",
+		"xauth-login": "^1.0.1"
+	}
+}
